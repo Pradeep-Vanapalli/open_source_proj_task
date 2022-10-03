@@ -1,7 +1,7 @@
 open_source_proj_task
 ==============================
 
-It is the basic project creation with all required files in git
+It is the basic project structure creation with all required files in git.
 
 Project Organization
 ------------
