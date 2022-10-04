@@ -1,8 +1,11 @@
 import sys
 import pandas as pd
 import numpy as np
+import sklearn
+import warnings
 
 REQUIRED_PYTHON = "python3"
+print("Imported sklearn and warnings")
 
 def main():
     system_major = sys.version_info.major
