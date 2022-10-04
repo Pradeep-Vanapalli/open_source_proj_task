@@ -10,6 +10,7 @@ import sklearn
 
 REQUIRED_PYTHON = "python3"
 print("Imported sklearn and warnings")
+print("This is to check dependabot alert")
 
 def main():
     system_major = sys.version_info.major
