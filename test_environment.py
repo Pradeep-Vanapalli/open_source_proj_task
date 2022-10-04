@@ -1,7 +1,8 @@
 import sys
+import pandas as pd
+import numpy as np
 
 REQUIRED_PYTHON = "python3"
-
 
 def main():
     system_major = sys.version_info.major
