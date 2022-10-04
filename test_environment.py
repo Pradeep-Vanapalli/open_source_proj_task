@@ -6,6 +6,7 @@ import warnings
 import seaborn
 import matplotlib.pyplot
 from datetime import 
+import sklearn
 
 REQUIRED_PYTHON = "python3"
 print("Imported sklearn and warnings")
