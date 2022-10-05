@@ -36,3 +36,7 @@ Git Commands:
     ![Screenshot from 2022-10-05 17-01-08](https://user-images.githubusercontent.com/66369393/194050899-46825c01-ca6d-492e-9e73-dfb8a2e55d1e.png)
 15. git stash list - To check the list of stashes we have created.
     ![Screenshot from 2022-10-05 17-04-24](https://user-images.githubusercontent.com/66369393/194051176-6233ccac-60f8-4510-a87e-359e277e8faf.png)
+16. git log - To check the history of chnages we made or committed.
+    ![Screenshot from 2022-10-05 17-06-52](https://user-images.githubusercontent.com/66369393/194051767-291e3372-1699-4cde-8d77-c60630da0f00.png)
+17. git merge - To merge the code in any branch to the main after chnages made.
+   ![Screenshot from 2022-10-05 17-09-56](https://user-images.githubusercontent.com/66369393/194052097-2f4553dd-4a93-4976-aad2-099cc4249a42.png)
