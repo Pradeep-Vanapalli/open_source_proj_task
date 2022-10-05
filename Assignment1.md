@@ -30,4 +30,9 @@ Git Commands:
     ![Screenshot from 2022-10-05 15-51-41](https://user-images.githubusercontent.com/66369393/194038548-2d27e598-5791-4290-a8ba-08ba7013fd8c.png)
 12. git pull -  The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match     that content.
     ![Screenshot from 2022-10-05 15-53-49](https://user-images.githubusercontent.com/66369393/194039025-2254710c-4c81-42a2-80e9-922035c6a565.png)
-
+13. git stash - The git stash command takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them         from your working copy.
+    ![Screenshot from 2022-10-05 16-59-35](https://user-images.githubusercontent.com/66369393/194050420-d144e951-3970-4bf2-98fc-2528bbb88358.png)
+14. git stash apply - To apply the chnages we have saved in the loacl to the working repository.
+    ![Screenshot from 2022-10-05 17-01-08](https://user-images.githubusercontent.com/66369393/194050899-46825c01-ca6d-492e-9e73-dfb8a2e55d1e.png)
+15. git stash list - To check the list of stashes we have created.
+    ![Screenshot from 2022-10-05 17-04-24](https://user-images.githubusercontent.com/66369393/194051176-6233ccac-60f8-4510-a87e-359e277e8faf.png)
