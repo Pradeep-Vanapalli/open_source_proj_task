@@ -19,3 +19,15 @@ Git Commands:
     Note : git add . -  for all files.
            git add <file_name> - For only selected file.
            ![Screenshot from 2022-10-03 12-17-32](https://user-images.githubusercontent.com/66369393/193516660-146ab27d-d012-4f7e-8dd1-322864e1f5b0.png)
+8. git push origin main - To push the code into the git with the chnages made.
+    ![Screenshot from 2022-10-05 15-43-47](https://user-images.githubusercontent.com/66369393/194037258-8b77e874-8b95-47f4-9a7c-029edc914a97.png)
+9. git commit -m "comment" - The "commit" command is used to save your changes to the local repository. 
+    ![Screenshot from 2022-10-05 15-46-51](https://user-images.githubusercontent.com/66369393/194037749-844b80ba-99a3-4bf1-80f7-fcddb3018884.png)
+10. a) git branch "branch name" - To create branch 
+    b) git branch - To check the current working branch.
+    ![Screenshot from 2022-10-05 15-48-39](https://user-images.githubusercontent.com/66369393/194038321-ecc26251-a9a7-4669-887e-9eb36e567baf.png)
+11. git checkout "branch name" - To move to the different branch
+    ![Screenshot from 2022-10-05 15-51-41](https://user-images.githubusercontent.com/66369393/194038548-2d27e598-5791-4290-a8ba-08ba7013fd8c.png)
+12. git pull -  The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match     that content.
+    ![Screenshot from 2022-10-05 15-53-49](https://user-images.githubusercontent.com/66369393/194039025-2254710c-4c81-42a2-80e9-922035c6a565.png)
+
