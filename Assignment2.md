@@ -25,3 +25,21 @@ Docker Commands:
 
 9. docker rmi -f <image_name> -  To delete the docker image container forcefully.
 ![Screenshot from 2022-10-18 20-55-41](https://user-images.githubusercontent.com/66369393/196474308-fd143da0-231e-4609-8acf-b2ad9c2cc2dd.png)
+
+10. docker start <container_id> -  To start the container
+![Screenshot from 2022-10-18 22-34-01](https://user-images.githubusercontent.com/66369393/196497796-2fd1afeb-b92a-42b1-ac18-564277259e09.png)
+
+11. dokcer stop <container_id> - To stop the container
+![Screenshot from 2022-10-18 22-36-16](https://user-images.githubusercontent.com/66369393/196498273-b2559272-2e80-4634-b87e-f58fd50ff6b7.png)
+
+12. docker logs <container_id> - To check the container output and the complete details from strat to stop.
+![Screenshot from 2022-10-18 22-38-43](https://user-images.githubusercontent.com/66369393/196498811-7ff0cd73-06fd-4fab-b5ad-fbdc1296fc72.png)
+
+13. dokcer push <image_name:latest> - To push the dokcer image to the docker hub.
+![Screenshot from 2022-10-18 22-55-26](https://user-images.githubusercontent.com/66369393/196501860-302d77b5-b814-44e5-ae1e-3a06df6f4390.png)
+
+14. docker diff <container_id> - To preview the impact of your changes in a build
+![Screenshot from 2022-10-18 23-00-43](https://user-images.githubusercontent.com/66369393/196502981-cbe8aec9-a124-4205-91eb-e57f0a6b8ed5.png)
+
+15. docker history <image_name> - To check the image complete history.
+![Screenshot from 2022-10-18 23-02-23](https://user-images.githubusercontent.com/66369393/196503436-5e332472-b512-437a-a74f-607c2a1893a7.png)
